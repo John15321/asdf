@@ -1,0 +1,16 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+    - name: 4th of july 🦅🇺🇸
+      run: echo "🦅🇺🇸🦅🇺🇸🦅🇺🇸🦅🇺🇸🦅🇺🇸"
+    - name: Run a multi-line script
+      run: |
+        ljaebgrv
