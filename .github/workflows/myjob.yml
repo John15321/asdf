@@ -13,4 +13,4 @@ jobs:
       run: echo "🦅🇺🇸🦅🇺🇸🦅🇺🇸🦅🇺🇸🦅🇺🇸"
     - name: Run a multi-line script
       run: |
-        ljaebgrv
+        echo "Muricaaa 🦅🇺🇸🦅🇺🇸🦅🇺🇸"
